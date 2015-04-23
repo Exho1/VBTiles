@@ -1,0 +1,2 @@
+C:\Users\Sadams815\AppData\Local\Temporary Projects\TileBaseGame\bin\Debug\TileBaseGame.exe.config
+C:\Users\Sadams815\Desktop\VBTileGame\TileBaseGame\TileBaseGame\bin\Debug\TileBaseGame.exe.config
